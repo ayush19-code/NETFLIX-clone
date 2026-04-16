@@ -101,7 +101,7 @@ nav button {
 }
 
 .btn-red {
-    background-color: red;
+    background-color: rgb(70, 0, 0);
     color: white;
     font-size: 20px;
     border-radius: 4px;
